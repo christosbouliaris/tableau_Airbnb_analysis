@@ -22,8 +22,8 @@ The analysis was conducted in Tableau, combining interactive dashboards and stor
 2. Open it using Tableau Desktop
 3. Explore the dashboards and visualizations interactively
 ## 📈 Εxample Dashboard
-### ![Average Daily Price per borough in New York]
-<img width="1920" height="1080" alt="average_price_per_borough" src="https://github.com/user-attachments/assets/addf4c25-f856-4159-b69b-0cd897dadcf6" />
+### Average Daily Price per Borough
+![Average Price per Borough](screenshots/average_price_per_borough.png)
 
  ![Average Price in Map]
 <img width="1920" height="1080" alt="map" src="https://github.com/user-attachments/assets/ea1b92ef-89ae-4eeb-bfd0-32756b4b5909" />
