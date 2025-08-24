@@ -24,19 +24,18 @@ The analysis was conducted in Tableau, combining interactive dashboards and stor
 ## 📈 Εxample Dashboard
 ### Average Daily Price per Borough
 ![Average Price per Borough](screenshots/average_price_per_borough.png)
-
- ![Average Price in Map]
-<img width="1920" height="1080" alt="map" src="https://github.com/user-attachments/assets/ea1b92ef-89ae-4eeb-bfd0-32756b4b5909" />
-### [Room Type per Location]
-<img width="1920" height="1080" alt="room_type_per_location" src="https://github.com/user-attachments/assets/b69e4192-8b6f-4086-8a26-2371868c9f07" />
-### [Distribution of Average Price in Manhattan]
-<img width="1920" height="1080" alt="distribution_Manhattan" src="https://github.com/user-attachments/assets/7a2cac0c-08cc-4533-a533-e650a3d1b211" />
-### [Factors that influence Average Price]
-<img width="1920" height="1080" alt="factors_average_price" src="https://github.com/user-attachments/assets/3a2bf698-b416-43e6-bd2b-5db1959d72d0" />
-### [Line chart - Evolutution of new Hosters in Airbnb]
-<img width="1920" height="1080" alt="line_chart" src="https://github.com/user-attachments/assets/afe1a72b-4795-4eaf-927f-b0e9eef0e630" />
-### [Total Revenue of Airbnb over the years]
-<img width="1920" height="1080" alt="airbnb_revenue" src="https://github.com/user-attachments/assets/785b1f25-0a94-465e-b5d3-28e352ed9ffe" />
+### Average Price in Map
+![Average Price in Map](screenshots/map.png)
+### Room Types per Location
+![Room Types per Location](screenshots/room_type_per_location.png)
+### Distribution of Average Price in Manhattan
+![Distribution in Manhattan](screenshots/distribution_Manhattan.png)
+### Factors that Influence Average Price
+![Factors Average Price](screenshots/factors_average_price.png)
+### Line Chart – Evolution of New Hosts in Airbnb
+![Line Chart](screenshots/line_chart.png)
+### Total Revenue of Airbnb over the years
+![Airbnb Revenue](screenshots/airbnb_revenue.png)
 
 
 
