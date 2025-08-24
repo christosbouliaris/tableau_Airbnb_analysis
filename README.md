@@ -1,5 +1,4 @@
 ![Project Banner](screenshots/banner_grey_blue.png)
-# Airbnb Data Analysis with Tableau
 Data Analysis of Airbnb listings in New York using Tableau. Includes bussines questions answered through visualizations and dashboards
 ## 📌 Project Overview
 This project explores Airbnb listings data in New York City.
