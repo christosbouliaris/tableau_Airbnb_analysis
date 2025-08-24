@@ -16,7 +16,7 @@ The analysis was conducted in Tableau, combining interactive dashboards and stor
 *(+11 more questions detailed in the report)
 ## 📂 Files in this Repository 
 - 'Christos_Bouliaris_Assessment.twbx' -> Tableau Packaged Workbook (dashboards + data)
-- '/screenshots/' -> PNG images of dashboards
+- 'screenshots' -> PNG images of dashboards
 ## 📈 Εxample Dashboard
 Average Daily Price of hosting in each aera of New York
 <img width="1920" height="1080" alt="average_price_per_borough" src="https://github.com/user-attachments/assets/f9bf3f3d-16fe-4b80-87d5-3e011be62130" />
