@@ -1,4 +1,4 @@
-# Airbnb Data Analysis with Tableau
+<img width="1920" height="1080" alt="average_price_per_borough" src="https://github.com/user-attachments/assets/da76827c-72ca-4a32-8c00-f56715d238f4" /># Airbnb Data Analysis with Tableau
 Data Analysis of Airbnb listings in New York using Tableau. Includes bussines questions answered through visualizations and dashboards
 ## 📌 Project Overview
 This project explores Airbnb listings data in New York City.
@@ -23,7 +23,8 @@ The analysis was conducted in Tableau, combining interactive dashboards and stor
 3. Explore the dashboards and visualizations interactively
 ## 📈 Εxample Dashboard
 ### ![Average Daily Price of hosting in each aera of New York]
-(screenshots/average_price_per_borough.png)
+<img width="1920" height="1080" alt="average_price_per_borough" src="https://github.com/user-attachments/assets/addf4c25-f856-4159-b69b-0cd897dadcf6" />
+
  ![Average Price in Map]
 <img width="1920" height="1080" alt="map" src="https://github.com/user-attachments/assets/ea1b92ef-89ae-4eeb-bfd0-32756b4b5909" />
 ### [Room Type per Location]
