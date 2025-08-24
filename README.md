@@ -22,7 +22,7 @@ The analysis was conducted in Tableau, combining interactive dashboards and stor
 2. Open it using Tableau Desktop
 3. Explore the dashboards and visualizations interactively
 ## 📈 Εxample Dashboard
-### ![Average Daily Price of hosting in each aera of New York]
+### ![Average Daily Price per borough in New York]
 <img width="1920" height="1080" alt="average_price_per_borough" src="https://github.com/user-attachments/assets/addf4c25-f856-4159-b69b-0cd897dadcf6" />
 
  ![Average Price in Map]
