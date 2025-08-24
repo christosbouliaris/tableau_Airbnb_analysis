@@ -1,5 +1,5 @@
 ![Project Banner](screenshots/banner_grey_blue.png)
-> 📊 Scroll down to explore dashboards and download the full Tableau workbook.
+> 📊 Scroll down to explore dashboards
 ## 📌 Project Overview
 This project explores Airbnb listings data in New York City.
 The goal was to answer analytical and business questions regarding pricing, availability, host performance and customer preferences.
