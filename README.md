@@ -37,7 +37,8 @@ The analysis was conducted in Tableau, combining interactive dashboards and stor
 ### Total Revenue of Airbnb over the years
 ![Airbnb Revenue](screenshots/airbnb_revenue.png)
 ## Data Source
-Inside Airbnb (public dataset)
+- `data/Airbnb_listing.xlsx` → The dataset used for this analysis.
+Source: Inside Airbnb (public dataset)
 
 
 
