@@ -22,6 +22,22 @@ The analysis was conducted in Tableau, combining interactive dashboards and stor
 2. Open it using Tableau Desktop
 3. Explore the dashboards and visualizations interactively
 ## 📈 Εxample Dashboard
-### ![Average Daily Price of hosting in each aera of New York]
+### [Average Daily Price of hosting in each aera of New York]
 <img width="1920" height="1080" alt="average_price_per_borough" src="https://github.com/user-attachments/assets/f9bf3f3d-16fe-4b80-87d5-3e011be62130" />
+### [Average Price in Map]
+<img width="1920" height="1080" alt="map" src="https://github.com/user-attachments/assets/ea1b92ef-89ae-4eeb-bfd0-32756b4b5909" />
+### [Room Type per Location]
+<img width="1920" height="1080" alt="room_type_per_location" src="https://github.com/user-attachments/assets/b69e4192-8b6f-4086-8a26-2371868c9f07" />
+### [Distribution of Average Price in Manhattan]
+<img width="1920" height="1080" alt="distribution_Manhattan" src="https://github.com/user-attachments/assets/7a2cac0c-08cc-4533-a533-e650a3d1b211" />
+### [Factors that influence Average Price]
+<img width="1920" height="1080" alt="factors_average_price" src="https://github.com/user-attachments/assets/3a2bf698-b416-43e6-bd2b-5db1959d72d0" />
+### [Line chart - Evolutution of new Hosters in Airbnb]
+<img width="1920" height="1080" alt="line_chart" src="https://github.com/user-attachments/assets/afe1a72b-4795-4eaf-927f-b0e9eef0e630" />
+### [Total Revenue of Airbnb over the years]
+<img width="1920" height="1080" alt="airbnb_revenue" src="https://github.com/user-attachments/assets/785b1f25-0a94-465e-b5d3-28e352ed9ffe" />
+
+
+
+
 
