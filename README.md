@@ -17,6 +17,7 @@ The analysis was conducted in Tableau, combining interactive dashboards and stor
 ## 📂 Files in this Repository 
 - 'Christos_Bouliaris_Assessment.twbx' -> Tableau Packaged Workbook (dashboards + data)
 - 'screenshots' -> PNG images of dashboards
+- 'data' -> Excel dataset of Airbnb listing
 ## 🚀 How to View
 1. Open the file 'Christos_Bouliaris_Assessment.twbx'
 2. Open it using Tableau Desktop
