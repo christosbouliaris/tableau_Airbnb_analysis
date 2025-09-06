@@ -1,10 +1,10 @@
 ![Project Banner](screenshots/banner_grey_blue.png)
 > 📊 Scroll down to explore dashboards
-## 📌 Project Overview
+##  Project Overview
 This project explores Airbnb listings data in New York City.
 The goal was to answer analytical and business questions regarding pricing, availability, host performance and customer preferences.
 The analysis was conducted in Tableau, combining interactive dashboards and storytelling
-## 🛠 Tools
+##  Tools
 - Tableau Desktop
 - Excel/CSV dataset
 ## Key Questions Answered
@@ -14,15 +14,15 @@ The analysis was conducted in Tableau, combining interactive dashboards and stor
 4. How have hosts evolved over time?
 5. Who are the most profitable hosts and how much revenue does Airbnb generate?
 *(+11 more questions detailed in the report)
-## 📂 Files in this Repository 
+##  Files in this Repository 
 - 'Christos_Bouliaris_Assessment.twbx' -> Tableau Packaged Workbook (dashboards + data)
 - 'screenshots' -> PNG images of dashboards
 - 'data' -> Excel dataset of Airbnb listing
-## 🚀 How to View
+##  How to View
 1. Open the file 'Christos_Bouliaris_Assessment.twbx'
 2. Open it using Tableau Desktop
 3. Explore the dashboards and visualizations interactively
-## 📈 Εxample Dashboards
+##  Εxample Dashboards
 ### Average Daily Price per Borough
 ![Average Price per Borough](screenshots/average_price_per_borough.png)
 ### Average Price in Map
