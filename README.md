@@ -5,6 +5,7 @@ The goal of this project was to analyze Airbnb listing in New York City in order
 - Most affordable borough: Bronx, offering the lowest average rental prices.
 - Most expensive borough: Manhattan, with the highest average rental prices across New York City
 - Average rental price in Manhattan: Approximately $301,2 per night
+- Preferred room type: The majority of guests choose Entire Home/Apt showing a clear preference for private spaces over shared accommodations
 - Airbnb platform revenue: Calculated based in listings and average rental rates, with total earnings $266.593
 ##  Tools
 - Tableau Desktop
