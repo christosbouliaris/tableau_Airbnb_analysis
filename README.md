@@ -1,5 +1,3 @@
-![Project Banner](screenshots/banner_grey_blue.png)
-> 📊 Scroll down to explore dashboards
 ##  Project Goals and Insights
 The goal of this project was to analyze Airbnb listing in New York City in order to identify key insights about rental prices and revenues. Using Tableau dashboards and visualizations, we explored the data and discovered that:
 - Most affordable borough: Bronx, offering the lowest average rental prices.
